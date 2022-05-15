@@ -11,7 +11,7 @@ public:
 
     Student(){
         name = "Tanya";
-        rno = 2;
+        rno = 21;
     };
 
     void showName(){
